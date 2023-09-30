@@ -1,0 +1,2 @@
+USER_ID = 'e2be77aba1914295aa6893900eb70df8'
+TOKEN = '1e5e3e84efb0433eace2a0c9e820eba5'
