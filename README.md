@@ -6,4 +6,4 @@ Python
 MongoDb
 Seaborn
 Matplotlib
-![Alt text](image.png)
+![Alt text](image2.png)
